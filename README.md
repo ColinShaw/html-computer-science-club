@@ -1,4 +1,7 @@
-This is the www.computerscienceclub.org page.
+# Computer Science Club
+
+
+This content is relevant to [http://www.computerscienceclub.org](Computer Science Club).
 
 All graphic content copyright Colin Shaw.  I don't mind if you use it for 
 in-kind purposes, as I would like to see more local organizations attempting
