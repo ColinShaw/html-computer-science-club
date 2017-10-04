@@ -26,7 +26,7 @@ sexy new whatever in some hot at the moment language.
 
 ### What Should I Do Having Seen This Repo
 
-Well, all graphic content is copyright Colin Shaw (that's me).  I don't mind if 
+Well, all graphic content is copyright Colin Shaw.  I don't mind if 
 you use it for in-kind purposes, as I would like to see more local organizations attempting
 to educate people about computer science and programming in general.  If you
 do end up cloning the repo, using some of the content or ideas, drop me a 
